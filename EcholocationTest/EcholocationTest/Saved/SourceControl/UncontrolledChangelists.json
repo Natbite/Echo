@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/Echolocation/M_RingDecal.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/Echolocation/M_Post_Permanent.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/Echolocation/A_SoundGenerator.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/Echolocation/M_Post_Add.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/18/6GH3RO3GCLA6819MUE7AAP.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/GE/HFGWX7R5CC677QKT4TR7O3.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VB/QEZV0DF14WNTG577ISZFI1.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/Echolocation/dark.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/Echolocation/M_Post_Move.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"E:/University/Year 1/Unit 3/Unreal Engine/EcholocationTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset"
+			]
+		}
+	]
+}
